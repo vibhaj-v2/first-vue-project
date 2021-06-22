@@ -3,7 +3,7 @@ const app = Vue.createApp({
 
 data () {
 return {
-    
+    text:'Welcome to Vue',
     count: 10
 }
 },
